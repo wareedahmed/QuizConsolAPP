@@ -1,4 +1,4 @@
-Welcome to the DotNetConsoleApps repository! This repository contains simple console applications built with C# and .NET. 
+Welcome to the DotNetConsoleApps repository! This repository contains simple console application built with C# and .NET. 
 
 **Project:**
 
